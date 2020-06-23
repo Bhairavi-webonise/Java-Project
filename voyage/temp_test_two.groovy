@@ -1,4 +1,4 @@
-import Java-Project.utilities.*;
+import JavaProject.utilities.*;
 
 ProductionJob productionjob = new ProductionJob(
 job_name: "example-job-2",
