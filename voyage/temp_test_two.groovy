@@ -1,6 +1,5 @@
 import utilities.*;
 
-class temp_test_two extends ProductionJob {
 ProductionJob productionjob = new ProductionJob(
 job_name: "example-job-2",
 git_repo: "git@github.com:webonise/devops_DSL.git",
