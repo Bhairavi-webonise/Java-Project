@@ -1,4 +1,4 @@
-import utilities.ProductionJob
+import utilities.*;
 
 ProductionJob productionjob = new ProductionJob(
 job_name: "example-job-2",
