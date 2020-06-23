@@ -3,7 +3,7 @@ package utilities
 import javaposse.jobdsl.dsl.DslFactory
 import javaposse.jobdsl.dsl.Job
  
-public class ProductionJob{
+class ProductionJob{
  
 String job_name
 String git_repo
