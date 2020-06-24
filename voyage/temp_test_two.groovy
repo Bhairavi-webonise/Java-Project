@@ -1,7 +1,7 @@
 
 
 
-library 'utilities'
+@Library('utilities')
 
 
 ProductionJob productionjob = new ProductionJob(
