@@ -1,9 +1,8 @@
-#import JavaProject.utilities.*;
+
 
 
 library 'utilities'
 
-#evaluate(new File("/home/webonise/Local-jenkinsDSL/Java-Project/JavaProject/utilities/ProductionJob.groovy"))
 
 ProductionJob productionjob = new ProductionJob(
 job_name: "example-job-2",
